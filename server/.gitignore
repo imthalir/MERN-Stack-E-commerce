@@ -1,0 +1,10 @@
+#Eniveronment Variables file
+node_modules/
+config/
+controllers/
+middleware/
+models/
+routes/
+server.js
+.env
+
