@@ -13,7 +13,7 @@ const StripeCheckoutForm = ({ onSuccess }) => {
     const result = await stripe.confirmPayment({
       elements,
       confirmParams: {
-        return_url: 'http://shoppy-client-by-thalir.onrender.com/orders'
+        return_url: 'http://shoppy-ecommerce-by-thalir.onrender.com/orders'
       }
     });
 
