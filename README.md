@@ -232,5 +232,3 @@ npm run dev
 - User profile management
 
 ---
-
-Let me know if you'd like this turned into a README or want help deploying it to platforms like Vercel or Render!
